@@ -24,5 +24,5 @@ O banco de dados `GIngressos` é composto por três tabelas principais:
 
 ## 🚀 Como executar
 1. Certifique-se de ter o MySQL instalado.
-2. Execute o script contido em `sql/ProjetoFinal.sql` para criar o banco de dados e as tabelas.
+2. Execute o script contido em `sql/GIngressos.sql` para criar o banco de dados e as tabelas.
 3. Abra o projeto no NetBeans e configure a conexão JDBC.
